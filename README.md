@@ -1,4 +1,4 @@
-# Aplicação de Agendamento de Automações com Django
+# Aplicação Web Scraping - Utilizando Django/Python
 
 Esta é uma aplicação desenvolvida em Python utilizando o framework Django. A aplicação tem como objetivo permitir o agendamento de automações.
 
@@ -42,7 +42,7 @@ Agendamento de Automações: Permite criar agendamentos para execução dos rob�
 Para utilizar a aplicação acesse o localhost:8000/admin, vá em Executions, crie uma nova Execution e em seguida selecione a execution criada e acione o action ' Custom action'
 Após isso o execution criado, será preenchido com os dados retirados da página.
 
-## Obs: Devido ao curto tempo foi possivel implementar apenas a extração de dados para o PNCP,  porém toda arquitetura foi planejanada para futuras implementações de extrações de dados em outras plataformas
+## Obs: Devido ao curto tempo foi possível implementar apenas a extração de dados para o PNCP,  porém toda arquitetura foi planejanada para futuras implementações de extrações de dados das demais plataformas.
 
 
 ## Configuração do Ambiente de Desenvolvimento
