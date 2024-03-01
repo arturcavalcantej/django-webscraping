@@ -33,9 +33,7 @@ O Docker Compose se encarregará de construir e iniciar os contêineres necessá
 Funcionalidades Principais
 A aplicação possui as seguintes funcionalidades principais:
 
-Cadastro de Robôs de Webscrapping: Permite cadastrar informações sobre robôs de webscrapping.
-
-Agendamento de Automações: Permite criar agendamentos para execução dos robôs de webscrapping em horários específicos.
+Cadastro de Robôs de Webscrapping: Permite cadastrar informações sobre webscrapping.
 
 ## Utilização
 
