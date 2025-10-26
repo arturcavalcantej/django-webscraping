@@ -40,8 +40,6 @@ Cadastro de Robôs de Webscrapping: Permite cadastrar informações sobre webscr
 Para utilizar a aplicação acesse o localhost:8000/admin, vá em Executions, crie uma nova Execution e em seguida selecione a execution criada e acione o action ' Custom action'
 Após isso o execution criado, será preenchido com os dados retirados da página.
 
-## Obs: Devido ao curto tempo foi possível implementar apenas a extração de dados para o PNCP,  porém toda arquitetura foi planejanada para futuras implementações de extrações de dados das demais plataformas.
-
 
 ## Configuração do Ambiente de Desenvolvimento
 Caso queira contribuir para o desenvolvimento da aplicação, siga os passos abaixo para configurar o ambiente de desenvolvimento:
